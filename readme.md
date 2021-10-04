@@ -20,24 +20,24 @@
 
 # Cucumber
 
-Pelos testes terem as requisições parecidas
-Foi identificado que poderia reutilizar os métodos criados
+Pelos testes terem as requisições parecidas,
+Foi identificado que poderia reutilizar os métodos criados,
 O qual é um dos pontos fortes do Cucumber+gherkin
 
 # RestUtils
 
-Uma classe criada para utilização dos métodos comuns do RestAssured
+Uma classe criada para utilização dos métodos comuns do RestAssured,
 Facilitando o uso de diversos métodos
 
 # LoginSteps
 
-Classe que contém os passos que devem ser executados
-Nele estão os métodos que foram gerados pelo cucumber*
+Classe que contém os passos que devem ser executados,
+Nele estão os métodos que foram gerados pelo cucumber
 
 # RunnerTest
 
-Classe responsável para executar os testes
-É uma classe com execução JUnit
+Classe responsável para executar os testes,
+É uma classe com execução JUnit,
 Podendo utilizar tags criadas para direcionar a sua execução
 
 
